@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lauboocho.barnwellsteve.com/sitemap.xml
